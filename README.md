@@ -1,3 +1,6 @@
+<hr/>
+<img src="Images/vector.png">
+<hr/>
 <h1 align="center">Differential Calculus - 1</h1>
     <h2 align="center">Polar Curves</h2>
     <h3>Angle Between the Radius Vector and the Tangent</h3>
@@ -44,6 +47,6 @@
 <p>From polar curves to partial differentiation, our exploration of differential calculus reveals its vast applications and interdisciplinary significance. Whether unraveling geometric mysteries or solving real-world problems in physics and engineering, the power of differentiation proves indispensable. As we conclude our journey, we recognize the enduring impact of calculus in shaping our understanding of the world around us.</p>
 <hr/>
 <h3 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Advances+Calsulus+-+1!+%F0%9F%98%84"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Advances+Calculus+-+1!+%F0%9F%98%84"/>
 </h3>
 </body>

@@ -1,6 +1,7 @@
 <hr/>
 <img src="Images/vector.png">
 <hr/>
+<br>
 <h1 align="center">Differential Calculus - 1</h1>
     <h2 align="center">Polar Curves</h2>
     <h3>Angle Between the Radius Vector and the Tangent</h3>

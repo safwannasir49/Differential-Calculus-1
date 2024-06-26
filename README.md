@@ -2,7 +2,6 @@
 <img src="Imagess/2.png">
 <hr/>
 <br>
-<h1 align="center">Differential Calculus - 1</h1>
     <h2 align="center">Polar Curves</h2>
     <h3>Angle Between the Radius Vector and the Tangent</h3>
     <p>This section explains the concept of the angle (ψ) between the radius vector (r) and the tangent to a polar curve (r(θ)). It provides the formula to calculate this angle using the relationship between the radius, the derivative of the angle with respect to the radius, and the derivative of the radius with respect to the angle.</p>

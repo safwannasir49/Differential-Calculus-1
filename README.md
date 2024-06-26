@@ -1,5 +1,5 @@
 <hr/>
-<img src="Images/diff.png">
+<img src="Imagess/2.png">
 <hr/>
 <br>
 <h1 align="center">Differential Calculus - 1</h1>
